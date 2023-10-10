@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.contenedor{
+    display: inline-flex;
+    width: 100%;
+}
+
+.logonav{
+    width: 20%;
+}
+
+#tickets{
+    color: rgb(17, 224, 17);
+}
+
+#comprartickets {
+    background-color: rgb(18, 190, 18);
+    border-color: rgb(15, 190, 15);
+}
+
+#ob1{
+    background-image: url(../imagenes/ba1.jpg);
+}
+
+.carousel-caption {
+    text-align: end;
+}
+
+.carousel-item img {
+    height: 55vh;
+}
+
+.card img {
+    width: 100%;
+}
+.tarjetas {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.card-body h2 {
+    font-size: 1rem;
+} 
+
+.card-text {
+    font-size: 0.50rem;
+}
+
+.honolulu {
+    width: 100%;
+}
+
+.title p {
+    margin-top: -18px;
+    margin-bottom: 0.5px;
+}
+
+#section3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#conocemas {
+    background-color: rgba(15, 15, 15, 0.753);
+    color: white;
+    margin-left: -11px;
+}
+#conocemas p {
+    font-size:x-small;
+}
+.boton {
+    background-color: rgb(17, 224, 17);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    width: 100%;
+    border-color:rgb(17, 224, 17);
+}
+
+#piepagina {
+     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #202d37;
+}
+#piepagina a {
+    text-decoration: none;
+    color: white;
+    
+}
+.container {
+    width: 50%;
+}
